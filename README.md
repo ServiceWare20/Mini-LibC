@@ -40,17 +40,6 @@ To build the library as a static archive:
 ```sh
 make
 ```
-Or manually:
-```sh
-gcc -c src/*.c
-ar rcs libmini.a *.o
-```
-
-### Linking with Your Project
-To use `mini-libc` in your project:
-```sh
-gcc -o my_program my_program.c -L. -lmini
-```
 
 ## Why Use mini-libc?
 - Ideal for low-level development and educational purposes.

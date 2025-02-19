@@ -1,4 +1,4 @@
-# mini-libc
+# Mini-libc
 
 A lightweight and minimal C standard library implementation designed for embedded systems, operating system kernels, and bare-metal applications.
 

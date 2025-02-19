@@ -41,16 +41,3 @@ To build the library as a static archive:
 make
 ```
 
-## Why Use mini-libc?
-- Ideal for low-level development and educational purposes.
-- Useful when a full-fledged libc (e.g., glibc, musl) is unnecessary.
-- Helps understand libc internals and system-level programming.
-
-## Future Improvements
-- Add more standard library functions
-- Improve `printf()` format support
-- Enhance portability across different architectures
-
-## License
-This project is licensed under the MIT License – feel free to use and modify it!
-
